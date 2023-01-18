@@ -1,0 +1,1 @@
+This is random blog website. I have tried to create a simple website by using html and css only.
